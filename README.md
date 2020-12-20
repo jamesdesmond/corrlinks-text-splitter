@@ -1,4 +1,6 @@
-This project is hosted online at my website [HERE](http://jamesdesmond.org/posts/corrlinks-text-split/)
+**This project is hosted online at my website [HERE](http://jamesdesmond.org/posts/corrlinks-text-split/)**
+
+# Corrlinks Text Splitter
 
 I created this script because I have been involved in a program called [Donate Your Vote](https://emancipationinitiative.org/get-involved/donateyourvote-2020/)
 
